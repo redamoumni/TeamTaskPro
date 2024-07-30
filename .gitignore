@@ -1,0 +1,15 @@
+# Java specific
+*.class
+*.jar
+
+# Maven
+target/
+
+# IDE specific files
+.vscode/
+
+# Logs
+*.log
+
+# OS specific
+.DS_Store" > .gitignore
